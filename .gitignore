@@ -1,0 +1,59 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+.vs/lol-offset-dump/v17/ipch/AutoPCH/38d179bc68fefd25/MEMORY.ipch
+.vs/lol-offset-dump/v17/Browse.VC.opendb
+.vs/lol-offset-dump/v17/Browse.VC.db-wal
+.vs/lol-offset-dump/v17/Browse.VC.db-shm
+.vs/lol-offset-dump/v17/Browse.VC.db
+.vs/lol-offset-dump/v17/.suo
+.vs/lol-offset-dump/v16/ipch/AutoPCH/c6af0ed0d480481a/MAIN.ipch
+.vs/lol-offset-dump/v16/ipch/AutoPCH/38d179bc68fefd25/MEMORY.ipch
+.vs/lol-offset-dump/v16/Browse.VC.db
+.vs/lol-offset-dump/v16/.suo
+.vs/lol-offset-dump/FileContentIndex/read.lock
+.vs/lol-offset-dump/FileContentIndex/718a6a58-b225-45bc-9a4b-4d215b415e63.vsidx
+*.log
+*.txt
+lol-offset-dump/x64/Release/lol-offset-dump.tlog/lol-offset-dump.lastbuildstate
+lol-offset-dump/x64/Release/lol-offset-dump.tlog/link.write.1.tlog
+lol-offset-dump/x64/Release/lol-offset-dump.tlog/link.read.1.tlog
+lol-offset-dump/x64/Release/lol-offset-dump.tlog/link.command.1.tlog
+lol-offset-dump/x64/Release/lol-offset-dump.tlog/CL.write.1.tlog
+lol-offset-dump/x64/Release/lol-offset-dump.tlog/CL.read.1.tlog
+lol-offset-dump/x64/Release/lol-offset-dump.tlog/CL.command.1.tlog
+lol-offset-dump/x64/Release/lol-offset-dump.ipdb
+lol-offset-dump/x64/Release/lol-offset-dump.iobj
+lol-offset-dump/x64/Release/lol-offset-dump.exe.recipe
+*.ipch
+lol-offset-dump/x64/Release/lol-offset-dump.tlog/unsuccessfulbuild
+*.vsidx
